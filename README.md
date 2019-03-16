@@ -14,4 +14,4 @@ Objetivo del Programa
 -------------------------------------------------------------------------------------------------------------------------------------------
 El objetivo es conseguir mediante java que un cliente "x" realice una compra "y", y así como tantas veces quiera ese mismo cliente u otros clientes, y todos los datos se guarden de manera sistemática como generador de facturas.
 
-Zona de los archivos adjuntos
+
